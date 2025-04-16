@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>QalbReflections</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 min-h-screen flex flex-col items-center justify-start py-10">
+
+  <h1 class="text-3xl font-bold mb-8 text-center">🕊️ Find a Verse for Your Mood</h1>
+
+  <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-10">
+    <button onclick="showVerse('happy')" class="bg-yellow-200 p-6 rounded-xl text-xl font-medium hover:shadow-lg">😊 Happy</button>
+    <button onclick="showVerse('sad')" class="bg-blue-200 p-6 rounded-xl text-xl font-medium hover:shadow-lg">😢 Sad</button>
+    <button onclick="showVerse('angry')" class="bg-red-200 p-6 rounded-xl text-xl font-medium hover:shadow-lg">😡 Angry</button>
+    <button onclick="showVerse('anxious')" class="bg-purple-200 p-6 rounded-xl text-xl font-medium hover:shadow-lg">😟 Anxious</button>
+  </div>
+
+  <div id="verseDisplay" class="text-center text-lg max-w-xl p-4 bg-white rounded shadow-md hidden">
+    <!-- Verse will appear here -->
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

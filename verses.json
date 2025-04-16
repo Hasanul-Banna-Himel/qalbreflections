@@ -1,0 +1,43 @@
+{
+    "happy": [
+      {
+        "verse": "So remember Me; I will remember you. (2:152)",
+        "reference": "Surah Al-Baqarah"
+      },
+      {
+        "verse": "And your Lord is going to give you, and you will be satisfied. (93:5)",
+        "reference": "Surah Ad-Duhaa"
+      }
+    ],
+    "sad": [
+      {
+        "verse": "Indeed, with hardship [will be] ease. (94:6)",
+        "reference": "Surah Ash-Sharh"
+      },
+      {
+        "verse": "Do not despair of the mercy of Allah. (39:53)",
+        "reference": "Surah Az-Zumar"
+      }
+    ],
+    "angry": [
+      {
+        "verse": "And those who restrain anger and who pardon the people – Allah loves the doers of good. (3:134)",
+        "reference": "Surah Aal-E-Imran"
+      },
+      {
+        "verse": "Repel evil with that which is better. (41:34)",
+        "reference": "Surah Fussilat"
+      }
+    ],
+    "anxious": [
+      {
+        "verse": "Verily, in the remembrance of Allah do hearts find rest. (13:28)",
+        "reference": "Surah Ar-Ra’d"
+      },
+      {
+        "verse": "And rely upon Allah; and sufficient is Allah as Disposer of affairs. (33:3)",
+        "reference": "Surah Al-Ahzab"
+      }
+    ]
+  }
+  

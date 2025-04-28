@@ -33,26 +33,69 @@
       {
         "verse": "Do not despair of the mercy of Allah. (39:53)",
         "reference": "Surah Az-Zumar"
+      },
+      {
+        "verse": "And do not kill your children for fear of poverty. We provide for them and for you. (17:31)",
+        "reference": "Surah Al-Isra"
+      },
+      {
+        "verse": "And do not grieve over what they conspire. (16:127)",
+        "reference": "Surah An-Nahl"
+      },
+      {
+        "verse": "And do not be grieved by what they say. (36:76)",
+        "reference": "Surah Ya-Sin"
+      },
+      {
+          
+          "verse": "And do not be grieved by their speech. (5:41)",
+          "reference": "Surah Al-Ma'idah"
+        },
+        {
+          "verse": "And do not be grieved over them or be in distress from what they conspire. (16:127)",
+          "reference": "Surah An-Nahl"
+        },
+        {
+          "verse": "And do not let your souls be consumed by grief for them. (60:13)",
+          "reference": "Surah Al-Mumtahanah"
       }
     ],
     "angry": [
       {
-        "verse": "And those who restrain anger and who pardon the people – Allah loves the doers of good. (3:134)",
-        "reference": "Surah Aal-E-Imran"
+        "verse": "The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray.(1:7)",
+        "reference": "Surah Al-Fatiha"
       },
       {
-        "verse": "Repel evil with that which is better. (41:34)",
-        "reference": "Surah Fussilat"
+        "verse": "How wretched is that for which they sold themselves - that they would disbelieve in what Allah has revealed through [their] outrage that Allah would send down His favor upon whom He wills from among His servants. So they returned having [earned] wrath upon wrath. And for the disbelievers is a humiliating punishment.(2:90)",
+        "reference": "Surah Al-Baqarah"
+      },
+      {
+        "verse": "They have been put under humiliation [by Allah] wherever they are overtaken, except for a covenant from Allah and a rope from the Muslims. And they have drawn upon themselves anger from Allah and have been put under destitution. That is because they disbelieved in the verses of Allah and killed the prophets without right. That is because they disobeyed and [habitually] transgressed.(3:112)",
+        "reference": "Surah Al-Imran"
+        
+      },
+      {
+        "verse": "Who spend [in the cause of Allah] during ease and hardship and who restrain anger and who pardon the people - and Allah loves the doers of good;(3:134)",
+        "reference": "Surah Al-Imran"
+      },
+      {
+        "verse": "But whoever kills a believer intentionally - his recompense is Hell, wherein he will abide eternally, and Allah has become angry with him and has cursed him and has prepared for him a great punishment.(4:93)",
+        "reference": "Surah An-Nisa"
       }
     ],
     "anxious": [
       {
-        "verse": "Verily, in the remembrance of Allah do hearts find rest. (13:28)",
-        "reference": "Surah Ar-Ra’d"
+        "verse": "O you who have believed, seek help through patience and prayer. Indeed, Allah is with the patient.(2:153)",
+        "reference": "Surah Al-Baqarah"
+        
       },
       {
-        "verse": "And rely upon Allah; and sufficient is Allah as Disposer of affairs. (33:3)",
-        "reference": "Surah Al-Ahzab"
+        "verse": "And [remember, O Muhammad], when those who disbelieved plotted against you to restrain you or kill you or evict you [from Makkah]. But they plan, and Allah plans. And Allah is the best of planners.(8:30)",
+        "reference": "Surah Al-Anfal"
+      },
+      {
+        "verse": "Those who have believed and whose hearts are assured by the remembrance of Allah. Unquestionably, by the remembrance of Allah hearts are assured.(13:28) ",
+        "reference": "Surah Ar-Ra'd"
       }
     ]
   }
